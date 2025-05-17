@@ -1,0 +1,5 @@
+{
+  "appId": "com.shaizan.WeatherApp",
+  "appName": "Weather App",
+  "webDir": "dist"
+}
